@@ -34,5 +34,5 @@ While this V1 doesn't accomplish all goals, YourHaq aims to develop into a servi
 
 2. **Build a record of discriminatory data.** Despite social media, many discriminatory incidents have gone unnoticed and undocumented for the last 16+ years. Given how aliens and green card holders are evaluated on a case-by-case basis, there is no hard evidence pointing at a systemic flaw and miscarriage of justice. Curating incidents may help create transparency into the immigration process, as well as helping to identify aggregate trends that the international human rights community could respond to. Reporting experiences with the right nuance (where you were, what was said to you, which flight were you boarding, who were you with, what forms did they make you fill out, where were you traveling to and from, etc) may help contribute to a more regimented and objective understanding and practice of immigration law.
 
-### About YourHaq
+## About YourHaq
 "Haq" is an Arabic word whose meaning is found at the intersection of the words "right", "truth" and "just". YourHaq translates to "your right", dedicated to supporting the true American vision of human rights. 
