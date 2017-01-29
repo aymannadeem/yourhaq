@@ -3,6 +3,7 @@ Community driven content for Muslims navigating changing US immigration laws.
 
 ## Find a lawyer
 Seeking legal help? Check out the following resources.
+
 - [Immigo](https://itunes.apple.com/us/app/immigo/id891595380?mt=8)
 - [CAIR](https://www.cair.com/)
 - [ACLU](https://www.aclu.org/)
@@ -28,8 +29,7 @@ This service is an open-source community project meant to evolve through the sup
 
 ### Community project goals and values
 
-While this is a first pass at a resource aggregation site, YourHaq aims to do the following:
-
+While this V1 doesn't accomplish all goals, YourHaq aims to develop into a service capable of the following:
 
 1. **Connect people to legal aid.** Presently, i's hard to know which lawyers, firms or orgs can offer representation to individuals with varying statuses (ex., refugees, green card holders, permanent residents, undocumented and work visa immigrants). It's also difficult to know who can do it pro-Bono (for those who might be financially restricted).
 
