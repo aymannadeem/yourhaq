@@ -30,6 +30,9 @@ This service is an open-source community project meant to evolve through the sup
 
 While this V1 doesn't accomplish all goals, YourHaq aims to develop into a service capable of the following:
 
-1. **Connect people to legal aid.** Presently, i's hard to know which lawyers, firms or orgs can offer representation to individuals with varying statuses (ex., refugees, green card holders, permanent residents, undocumented and work visa immigrants). It's also difficult to know who can do it pro-Bono (for those who might be financially restricted).
+1. **Connect people to legal aid.** Presently, it's hard to know which lawyers, firms or orgs can offer representation to individuals with varying statuses (ex., refugees, green card holders, permanent residents, undocumented and work visa immigrants). It's also difficult to know who can do it pro-Bono (for those who might be financially restricted).
 
 2. **Build a record of discriminatory data.** Despite social media, many discriminatory incidents have gone unnoticed and undocumented for the last 16+ years. Given how aliens and green card holders are evaluated on a case-by-case basis, there is no hard evidence pointing at a systemic flaw and miscarriage of justice. Curating incidents may help create transparency into the immigration process, as well as helping to identify aggregate trends that the international human rights community could respond to. Reporting experiences with the right nuance (where you were, what was said to you, which flight were you boarding, who were you with, what forms did they make you fill out, where were you traveling to and from, etc) may help contribute to a more regimented and objective understanding and practice of immigration law.
+
+### About YourHaq
+"Haq" is an Arabic word whose meaning is found at the intersection of the words "right", "truth" and "just". YourHaq translates to "your right", dedicated to supporting the true American vision of human rights. 
