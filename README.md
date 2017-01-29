@@ -20,7 +20,6 @@ Seeking legal help? Check out the following resources.
 Under President Trump's executive order, foreigners from Iraq, Iran, Syria, Yemen, Sudan, Libya or Somalia are not allowed to enter the United States of America. This rule applies to all “aliens”—a term that encompasses anyone who isn’t an American citizen, meaning it could bar those with current visas or even green cards from returning to the U.S. from trips abroad. 
 
 ## How to contribute
-*For the people, by the people!*
 This service is an open-source community project meant to evolve through the support of others. Lawyers, engineers, designers, builders, content curators and anyone else who can lend their talent in improving this service are welcome to contribute. Here are some ways you can help:
 
 - Share ideas on issues
