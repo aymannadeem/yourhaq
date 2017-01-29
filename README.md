@@ -6,6 +6,7 @@ Seeking legal help? Check out the following resources.
 
 - [Immigo](https://itunes.apple.com/us/app/immigo/id891595380?mt=8)
 - [CAIR](https://www.cair.com/)
+- [MLFA](https://www.mlfa.org/)
 - [ACLU](https://www.aclu.org/)
 - [AILA](http://www.aila.org/)
 - [CPB](https://www.cbp.gov/)
