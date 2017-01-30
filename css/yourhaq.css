@@ -92,8 +92,8 @@ font header .navbar-default .navbar-nav li a:hover {
   background: url("../img/slider-bg.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  background-position: 10% 0%;
-  padding: 200px 0 280px 0;
+  background-position: 20% 40%;
+  padding: 100px 0 150px 0;
   position: relative;
 }
 #slider:before {
@@ -113,7 +113,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #slider .block h1 {
   font-family: 'Roboto', sans-serif;
-  font-weight: 100;
+  font-weight: bold;
   font-size: 45px;
   line-height: 60px;
   letter-spacing: 10px;
@@ -210,6 +210,10 @@ font header .navbar-default .navbar-nav li a:hover {
 #call-to-action p {
   font-size: 14px;
   line-height: 1.6;
+}
+#call-to-action .service-item i {
+  font-size: 60px;
+  color: #fff;
 }
 #call-to-action .btn-call-to-action {
   padding: 15px 35px;
