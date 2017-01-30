@@ -22,7 +22,7 @@ Build a two-sided marketplace for lawyers and those seeking legal help to easily
 2. **Build a record of discriminatory data.** Allow individuals experiencing prejudice to document and report their experiences with nuance (where you were, what was said to you, which flight were you boarding, who were you with, what forms did they make you fill out, where were you traveling to and from, etc). While this may not motivate immediate action, building a record of experiences is important in paring out what exactly is going on. Entry into the country is often left to the call of the customs officer at the border. Gathering records may have potential to motivate a more precise understanding and practice of immigration law.
 
 ### Making changes
-[YourHaq](http://yourhaq.com) is powered by [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). Feel free to create a pull request if you'd like to make changes. To get the site running locally follow the standard [GitHub Pages local development instructions](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/), generally involves cloning this repo and running the following from local repo directory:
+[YourHaq](http://yourhaq.com) is powered by [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). Feel free to create a pull request if you'd like to make changes. To get the site running locally follow the standard [GitHub Pages local development instructions](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/), involves cloning this repo and running the following from local repo directory:
 
 ```shell
 $ bundle install
