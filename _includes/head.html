@@ -1,8 +1,12 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-<meta name="description" content="">
+<meta name="description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.subtitle }}{% endif %}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+<meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.subtitle }}{% endif %}" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="http://yourhaq.com/img/logo.png" />
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
 <!-- CSS -->
