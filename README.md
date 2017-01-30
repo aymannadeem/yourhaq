@@ -1,4 +1,4 @@
-# yourhaq
+# YourHaq
 Community driven content for people navigating changing US immigration laws.
 
 This service is an open-source community project meant to evolve through the support of others. Lawyers, engineers, designers, builders, content curators and anyone else who can lend their talent in improving this service are welcome to contribute.
