@@ -380,7 +380,7 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
 }
 #global-header .block h1 {
-  font-weight: 100;
+  font-weight: bold;
   font-size: 45px;
   letter-spacing: 6px;
   padding-bottom: 15px;
