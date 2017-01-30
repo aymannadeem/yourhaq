@@ -3,6 +3,12 @@ Community driven content for people navigating changing US immigration laws.
 
 This service is an open-source community project meant to evolve through the support of others. Lawyers, engineers, designers, builders, content curators and anyone else who can lend their talent in improving this service are welcome to contribute.
 
+| Content |
+|:--------|
+| [Motivation](#motivation) |
+| [Vision](#vision) |
+| [Making changes](#making-changes) |
+
 ### Motivation
 1. **Lack of access to legal resources:** It's hard to know which lawyers, firms or orgs can offer representation to individuals with varying statuses (ex., refugees, green card holders, permanent residents, undocumented and work visa immigrants). Furthermore, it's difficult to know who can do it pro-Bono (for people who may be financially restricted).
 
@@ -14,3 +20,11 @@ Build a two-sided marketplace for lawyers and those seeking legal help to easily
 1. **Connect people to legal aid.** Create a tool that connects individuals with legal help (lawyers and/or informative resources) based on their immigration status.
 
 2. **Build a record of discriminatory data.** Allow individuals experiencing prejudice to document and report their experiences with nuance (where you were, what was said to you, which flight were you boarding, who were you with, what forms did they make you fill out, where were you traveling to and from, etc). While this may not motivate immediate action, building a record of experiences is important in paring out what exactly is going on. Entry into the country is often left to the call of the customs officer at the border. Gathering records may have potential to motivate a more precise understanding and practice of immigration law.
+
+### Making changes
+[YourHaq](http://yourhaq.com) is powered by [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). Feel free to create a pull request if you'd like to make changes. To get the site running locally follow the standard [GitHub Pages local development instructions](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/), generally involves cloning this repo and running the following from local repo directory:
+
+```shell
+$ bundle install
+$ bundle exec jekyll serve
+```
