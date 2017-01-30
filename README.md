@@ -32,7 +32,7 @@ Many people are asking "How Can I Be of Help?" in the wake of the Muslim Ban. He
 5. DON'T spread mis-information about the #MuslimBan, share reliable information and legal analysis.
 6. The Ban is specifically geared toward Muslims from the above-named 7 states, at current, and includes a "Religion Test" to exclude Muslims specifically. Therefore, ADVISE that there are exceptions for Christian refugees and minority religions.
 7. Support advocacy organizations responding to the Muslim Ban. By way of your time or resources - contact them directly to assess their immediate needs.
-9. Educate your community by spreading the word and adding to the list of resources featured here.
+8. Educate your community by spreading the word and adding to the list of resources featured here.
 
 ## How to contribute
 This service is an open-source community project meant to evolve through the support of others. Lawyers, engineers, designers, builders, content curators and anyone else who can lend their talent in improving this service are welcome to contribute. 
@@ -40,7 +40,6 @@ This service is an open-source community project meant to evolve through the sup
 - Share ideas on issues
 - Submit a pull request
 - Curate legal content
-
 
 ### Community project goals and values
 
