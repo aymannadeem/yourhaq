@@ -645,21 +645,24 @@ footer p {
 footer a {
   color: #595959;
 }
-footer .footer-manu {
+footer .footer-menu {
   padding-bottom: 25px;
 }
-footer .footer-manu ul {
+footer .footer-menu ul {
   margin: 0px;
   padding: 0px;
 }
-footer .footer-manu ul li {
+footer .footer-menu i {
+  font-size: 18px;
+}
+footer .footer-menu ul li {
   display: inline-block;
   padding: 0px 20px;
 }
-footer .footer-manu ul li a {
+footer .footer-menu ul li a {
   display: inline-block;
   color: #494949;
 }
-footer .footer-manu ul li a:hover {
+footer .footer-menu ul li a:hover {
   color: #000;
 }
