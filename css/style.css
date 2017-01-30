@@ -1,9 +1,3 @@
-/*
- * This css file includes styles added in the jekyll port of this theme.
- * To find the original style.css that ships with Airspace, read airspace.css
- *
- */
-
  .italic {
    font-style: italic;
  }
@@ -14,6 +8,10 @@
 
  .center-text {
    text-align: center;
+ }
+
+ .navbar-brand img {
+   max-width: 150px;
  }
 
 .post-area {
