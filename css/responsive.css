@@ -398,3 +398,23 @@ px      68    160    252    344    436    */
 	Overrides styles for devices with a 
 	device-pixel-ratio of 2+, such as iPhone 4.
 -----------------------------------------------    */
+
+@media only screen and (max-width: 990px) {
+  /*--
+	resource list
+--*/
+  .resource-item {
+    width: 50%;
+    min-height: 205px;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  /*--
+	resource list
+--*/
+  .resource-item {
+    min-height: 80px;
+    width: 100%;
+  }
+}
