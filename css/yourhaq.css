@@ -629,6 +629,22 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 /*---------------------------*/
 /*--
+	resource search
+--*/
+.search-container {
+  margin-top: 20px;
+  position: relative;
+}
+.search {
+  padding: 7px 30px;
+  font-size: 15px;
+}
+.search-container .search-icon {
+  position: absolute;
+  top: 10px;
+  left: 12px;
+  color: #666;
+}
 	footer Start
 --*/
 footer {
