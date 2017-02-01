@@ -645,6 +645,20 @@ font header .navbar-default .navbar-nav li a:hover {
   left: 12px;
   color: #666;
 }
+/*--
+	resource list
+--*/
+.resource-list {
+  overflow: hidden;
+}
+.resource-item {
+  display: inline-block;
+  width: 33%;
+  min-height: 220px;
+  float: left;
+  padding: 0 3% 0 3%;
+}
+/*--
 	footer Start
 --*/
 footer {
