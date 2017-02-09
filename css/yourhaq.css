@@ -696,3 +696,13 @@ footer .footer-menu ul li a {
 footer .footer-menu ul li a:hover {
   color: #000;
 }
+/*---------------------------------------------
+           FAQ Start
+-----------------------------------------------*/
+.faq-list {
+  color: #7B7B7B;
+  font-size: 15px;
+  margin: 0 0 0 40px;
+  list-style: disc;
+}
+.faq-list li { padding-bottom: 10px; }
