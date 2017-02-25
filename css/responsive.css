@@ -168,7 +168,7 @@ px      68    160    252    */
   h2 {
     font-size: 18px;
   }
-  p {
+  p, .faq-list {
     font-size: 13px;
   }
   header .navbar-default .navbar-toggle {
