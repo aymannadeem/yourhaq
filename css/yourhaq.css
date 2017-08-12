@@ -115,7 +115,6 @@ font header .navbar-default .navbar-nav li a:hover {
   font-weight: bold;
   font-size: 45px;
   line-height: 60px;
-  letter-spacing: 10px;
   padding-bottom: 45px;
 }
 #slider .block p {
@@ -123,7 +122,6 @@ font header .navbar-default .navbar-nav li a:hover {
   line-height: 40px;
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  letter-spacing: 3px;
 }
 /*--
 	wrapper Start
@@ -137,7 +135,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .block p {
-  color: #7B7B7B;
+  color: #767676;
   padding-top: 20px;
 }
 #intro .block img {
@@ -170,7 +168,7 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #666;
 }
 #service .service-item p {
-  color: #888;
+  color: #767676;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
@@ -274,7 +272,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #testimonial .block p {
   padding-top: 50px;
-  color: #7B7B7B;
+  color: #767676;
 }
 #testimonial .counter-box li {
   width: 50%;
@@ -380,15 +378,12 @@ font header .navbar-default .navbar-nav li a:hover {
 #global-header .block h1 {
   font-weight: bold;
   font-size: 45px;
-  letter-spacing: 6px;
   padding-bottom: 15px;
   margin-top: 0;
   text-transform: capitalize;
 }
 #global-header .block p {
   font-size: 16px;
-  font-weight: 300;
-  letter-spacing: 1px;
   word-spacing: 3px;
 }
 /*--
@@ -670,7 +665,7 @@ footer {
 footer p {
   font-size: 13px;
   line-height: 25px;
-  color: #919191;
+  color: #707070;
 }
 footer a {
   color: #595959;
@@ -700,7 +695,7 @@ footer .footer-menu ul li a:hover {
            FAQ Start
 -----------------------------------------------*/
 .faq-list {
-  color: #7B7B7B;
+  color: #767676;
   font-size: 15px;
   margin: 0 0 0 40px;
   list-style: disc;
